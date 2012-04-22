@@ -20,6 +20,7 @@ Thumbs.db
 nbproject
 *.sublime-project
 *.sublime-workspace
+.ftpquota
 
 # Dreamweaver added files
 _notes
@@ -40,6 +41,8 @@ dwsync.xml
 intermediate
 publish
 .idea
+save-the-date
+cgi-bin
 
 # build script local files
 build/buildinfo.properties
