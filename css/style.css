@@ -218,7 +218,10 @@ td { vertical-align: top; }
    Author:
    ========================================================================== */
 
-
+#save-the-date {
+	padding: 40px;
+	text-align: center;
+}
 
 
 
