@@ -5,7 +5,7 @@
 
     <div id="page" class="clear" >
       <div id="content" class="clear" >
-        <h1 class="tk-adobe-garamond-pro" >Registries</h1>
+        <h1>Registries</h1>
 
         <p>We've set up gift registries at the following places:</p>
         <ul id="gift-registries" >

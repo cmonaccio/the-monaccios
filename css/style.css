@@ -125,19 +125,27 @@ body { background: url(../img/bg-body.jpg) repeat 0 0;}
 }
 
 /* Content */
-
 #content {
   width: 670px;
   margin: 0 auto;
+  font-family: "adobe-garamond-pro", sans-serif;
 }
 
-h1 { text-align: center; }
-p { width: 320px; margin: 0 auto; }
+#content h1 { text-align: center; }
+#content p { 
+  width: 320px; 
+  margin: 0 auto; 
+  text-indent: 20px;
+}
+#content p:first-of-type { text-indent:0; }
 
-
+/* Our Story */
+#the-couple {
+  padding-left: 9px;
+  margin-bottom: 20px;
+}
 
 /* Registries */
-
 #gift-registries {
   list-style: none;
   padding: 0;
@@ -181,7 +189,8 @@ p { width: 320px; margin: 0 auto; }
 /* Hide visually and from screenreaders, but maintain layout */
 .invisible { visibility: hidden; }
 
-/* Floats */
+/* Alignment */
+.aligncenter { text-align: center; margin: 0 auto; }
 .alignleft { float: left; }
 .alignright { float: right; }
 
