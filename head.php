@@ -16,6 +16,8 @@
 
   <link rel="stylesheet" href="css/style.css">
 
+  <script type="text/javascript" src="http://use.typekit.com/oqn3msa.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   <script src="js/vendor/modernizr-2.5.3.min.js"></script>
 </head>
 <body>

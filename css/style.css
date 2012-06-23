@@ -2,16 +2,17 @@
    Normalize Styles
    ========================================================================== */
 
+* { box-sizing: border-box; }
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
 audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 audio:not([controls]) { display: none; }
 [hidden] { display: none; }
 
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-html, button, input, select, textarea { font-family: sans-serif; color: #222; }
+html, button, input, select, textarea { font-family: sans-serif; color: #5d5d5d; }
 body { margin: 0; font-size: 1em; line-height: 1.4; }
-::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
-::selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::-moz-selection { background: #7fcecf; color: #fff; text-shadow: none; }
+::selection { background: #7fcecf; color: #fff; text-shadow: none; }
 
 a { color: #00e; }
 a:visited { color: #551a8b; }
@@ -74,19 +75,79 @@ td { vertical-align: top; }
 /* ==|== primary styles =====================================================
    Author:
    ========================================================================== */
+body { background: url(../img/bg-body.jpg) repeat 0 0;}
 
-#save-the-date {
-	padding: 40px;
-	text-align: center;
+#wrapper {
+  position: relative;
+  width: 960px;
+  margin: 0 auto;
 }
 
+#nav-primary { 
+  position: relative;
+  height: 100px;
+  padding-top: 18px;
+  margin: 0 0 10px;
+  background: url(../img/bg-nav-primary.gif) repeat-x 0 bottom; 
+}
+#nav-primary ul { 
+  width: 920px;
+  margin: 0 auto;
+}
+#nav-primary ul li {
+  float: left;
+}
+#nav-primary ul li a {
+  display: block;
+  height: 58px;
+  padding: 12px 28px;
+  font-family: "adobe-garamond-pro", sans-serif;
+  font-variant: small-caps;
+  font-size: 24px;
+  text-decoration: none;
+  color: #8d8d8d;
+}
+#nav-primary ul li a:hover {
+  background: url(../img/bg-nav-primary-li-hover.gif) repeat-x 0 0;
+}
+
+#date-ribbon {
+  position: absolute;
+  left: -110px;
+  bottom: -16px;
+  width: 220px;
+  margin-left: 50%;
+}
+
+#page {
+  min-height: 300px;
+  background: url(../img/bg-page.png) no-repeat 0 0;
+}
+
+/* Content */
+
+#content {
+  width: 670px;
+  margin: 0 auto;
+}
+
+h1 { text-align: center; }
+p { width: 320px; margin: 0 auto; }
 
 
 
+/* Registries */
 
-
-
-
+#gift-registries {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#gift-registries li { 
+  text-align: center; 
+  padding: 0 0 60px;
+}
+#gift-registries li#registry-amazon { padding-left: 12px; }
 
 
 

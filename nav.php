@@ -1,10 +1,13 @@
 <nav id="nav-primary" >
-	<ul>
-		<li><a href="/index.html">Welcome</a></li>
-		<li><a href="/our-story.html">Our Story</a></li>
-		<li><a href="/the-parties.html">The Parties</a></li>
-		<li><a href="/ceremony.html">Ceremony</a></li>
-		<li><a href="/travel.html">Travel</a></li>
-		<li><a href="/registries.html">Registries</a></li>
+	<ul class="clear" >
+		<li><a href="index.php">Welcome</a></li>
+		<li><a href="our-story.php">Our Story</a></li>
+		<li><a href="the-parties.php">The Parties</a></li>
+		<li><a href="ceremony.php">Ceremony</a></li>
+		<li><a href="travel.php">Travel</a></li>
+		<li><a href="registries.php">Registries</a></li>
 	</ul>
+	<div id="date-ribbon" >
+		<img src="img/date.png" alt="August 11th, 2012" />
+	</div>
 </nav>
