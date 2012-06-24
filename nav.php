@@ -4,7 +4,7 @@
 		<li><a href="our-story.php">Our Story</a></li>
 		<li><a href="the-parties.php">The Parties</a></li>
 		<li><a href="ceremony.php">Ceremony</a></li>
-		<li><a href="travel.php">Travel</a></li>
+		<li><a href="location.php">Location</a></li>
 		<li><a href="registries.php">Registries</a></li>
 	</ul>
 	<div id="date-ribbon" >
