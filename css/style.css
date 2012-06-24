@@ -83,21 +83,21 @@ body { background: url(../img/bg-body.jpg) repeat 0 0;}
   margin: 0 auto;
 }
 
-#nav-primary { 
+#nav-prime { 
   position: relative;
   height: 100px;
   padding-top: 18px;
   margin: 0 0 10px;
   background: url(../img/bg-nav-primary.gif) repeat-x 0 bottom; 
 }
-#nav-primary ul { 
+#nav-prime ul { 
   width: 920px;
   margin: 0 auto;
 }
-#nav-primary ul li {
+#nav-prime ul li {
   float: left;
 }
-#nav-primary ul li a {
+#nav-prime ul li a {
   display: block;
   height: 58px;
   padding: 12px 26px;
@@ -107,7 +107,7 @@ body { background: url(../img/bg-body.jpg) repeat 0 0;}
   text-decoration: none;
   color: #8d8d8d;
 }
-#nav-primary ul li a:hover {
+#nav-prime ul li a:hover {
   background: url(../img/bg-nav-primary-li-hover.gif) repeat-x 0 0;
 }
 
@@ -119,9 +119,15 @@ body { background: url(../img/bg-body.jpg) repeat 0 0;}
   margin-left: 50%;
 }
 
+#footer-prime { 
+  width: 960px;
+  height: 304px;
+  margin: -180px auto 60px;
+  background: url(../img/bg-footer.png) no-repeat 0 0;
+}
+
 #page {
-  min-height: 300px;
-  margin-bottom: 40px;
+  min-height: 600px;
   background: url(../img/bg-page.png) no-repeat 0 0;
 }
 
@@ -199,15 +205,16 @@ body { background: url(../img/bg-body.jpg) repeat 0 0;}
 /* Location */
 #map {
   position: relative;
+  height: 430px;
   padding: 9px 9px 0 0;
   background: url(../img/bg-map.png) no-repeat center 0;
 }
 
 /* Registries */
-#gift-registries {
+#content #gift-registries {
   list-style: none;
   padding: 0;
-  margin: 0;
+  margin: 30px auto 0;
 }
 #gift-registries li { 
   text-align: center; 
