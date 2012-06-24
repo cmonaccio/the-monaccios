@@ -5,7 +5,7 @@
 
     <div id="page" class="clear" >
       <div id="content" class="clear" >
-        <h1 class="tk-adobe-garamond-pro" >Welcome</h1>
+        <h1>The Parties</h1>
 
       </div><!-- #content -->
     </div><!-- #page -->
