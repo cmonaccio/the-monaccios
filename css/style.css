@@ -138,7 +138,10 @@ body { background: url(../img/bg-body.jpg) repeat 0 0;}
   font-family: "adobe-garamond-pro", sans-serif;
 }
 
-#content h1 { text-align: center; }
+#content h1 { 
+  text-align: center; 
+  margin: 55px 0 40px;
+}
 #content h3 { margin: 10px 0; }
 #content p,
 #content ol,

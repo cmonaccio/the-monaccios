@@ -5,7 +5,7 @@
 
     <div id="page" class="clear" >
       <div id="content" class="clear" >
-        <h1>The Parties</h1>
+        <h1><img src="img/title-the-parties.png" alt="The Parties" ></h1>
         <div id="parties" class="clear" >
 
           <div id="col-1" >
