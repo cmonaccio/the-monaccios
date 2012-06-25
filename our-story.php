@@ -5,7 +5,7 @@
 
     <div id="page" class="clear" >
       <div id="content" class="clear" >
-        <h1>Our Story</h1>
+        <h1><img src="img/title-our-story.png" alt="Our Story" ></h1>
         <div id="the-couple" class="aligncenter" >
           <img src="img/our-story.png" alt="Chris & Christine: Our Story" >
         </div>

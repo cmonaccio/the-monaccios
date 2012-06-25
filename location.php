@@ -5,12 +5,7 @@
 
     <div id="page" class="clear" >
       <div id="content" class="clear" >
-        <h1>Location</h1>
-        <div id="old-town-hall" class="aligncenter" >
-            <img src="img/old-town-hall.png" alt="Old Town Hall" />
-        </div><!-- #old-town-hall -->
-        <p>The ceremony and the reception are being held at the Old Town Hall in Fairfax City Virginia. The Ceremony will take place in the upper level, followed by the Reception downstairs in the main hall.</p>
-
+        <h1><img src="img/title-location.png" alt="Location" ></h1>
         <div id="map" class="aligncenter">
           <iframe width="480" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?ie=UTF8&amp;q=old+town+hall+fairfax&amp;fb=1&amp;gl=us&amp;hq=old+town+hall&amp;hnear=0x89b64e96394b91cd:0x72326e785448640,Fairfax,+VA&amp;cid=0,0,1692657061389972596&amp;t=m&amp;ll=38.84656,-77.30547&amp;spn=0.013369,0.020599&amp;z=15&amp;output=embed"></iframe>
         </div><!-- #map -->
