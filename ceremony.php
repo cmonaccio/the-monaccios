@@ -9,7 +9,10 @@
         <div id="old-town-hall" class="aligncenter" >
             <img src="img/old-town-hall.png" alt="Old Town Hall" />
         </div><!-- #old-town-hall -->
-        <p>The ceremony and the reception are being held at the Old Town Hall in Fairfax City Virginia. The Ceremony will take place in the upper level, followed by the Reception downstairs in the main hall.</p>
+        <h2 class="aligncenter" >Ceremony</h2>
+        <p>The ceremony will take place on the upper level of the Old Town Hall in Fairfax at 3pm. Attire is dress-casual.</p>
+        <h2 class="aligncenter" >Reception</h2>
+        <p>The Reception will follow the Ceremony in the lower level Main Hall. A buffet-style, primarily vegeatarian dinner will be served, catered by <a href="" title="Catering by Teatime Delicacies" >TeaTime Delicacies</a>. Beer will be available but no liquor is being provided.</p>
       </div><!-- #content -->
     </div><!-- #page -->
   </div><!-- #wrapper -->

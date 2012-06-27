@@ -9,6 +9,33 @@
         <div id="map" class="aligncenter">
           <iframe width="480" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?ie=UTF8&amp;q=old+town+hall+fairfax&amp;fb=1&amp;gl=us&amp;hq=old+town+hall&amp;hnear=0x89b64e96394b91cd:0x72326e785448640,Fairfax,+VA&amp;cid=0,0,1692657061389972596&amp;t=m&amp;ll=38.84656,-77.30547&amp;spn=0.013369,0.020599&amp;z=15&amp;output=embed"></iframe>
         </div><!-- #map -->
+        <h2 class="aligncenter" >Location</h2>
+        <p>Address.</p>
+        <p>There is no dedicated parking for the venue. However, there are several free parking lots and a free public garage located within walking distance. The map below has their locations.</p>
+        <h2 class="aligncenter" >Accomodations</h2>
+        <p>While we haven't blocked out rooms at any particular hotel, there are plenty of accomodations near the Old Town Hall:</p>
+        <h3 class="aligncenter" >Holiday Inn Express</h3>
+        <p><em>Fairfax Arlington Blvd.</em></p>
+        <p>
+          10327 Fairfax Blvd.<br />
+          Fairfax, VA 22030<br />
+          1-888-596-4797<br />
+          <a href="http://www.hiefairfaxvahotel.com" title="Fairfax Holiday Inn Express" >www.hiefairfaxvahotel.com</a>
+        </p>
+        <h3 class="aligncenter" >The Mason Inn Conference Center and Hotel</h3>
+        <p>
+          4352 Mason Pond Drive<br />
+          Fairfax, VA 22030<br />
+          (703) 865-5705<br />
+          <a href="http://www.themasoninnva.com" title="The Mason Inn Conference Center and Hotel" >www.themasoninnva.com</a>
+        </p>
+        <h3 class="aligncenter" >Hampton Inn Fairfax City</h3>
+        <p>
+          10860 Fairfax Blvd.<br />
+          Fairfax, VA 22030<br />
+          (703) 385-2600<br />
+          <a href="http://hamptoninn3.hilton.com/en/hotels/virginia/hampton-inn-fairfax-city-FFCVAHX/index.html" title="Hampton Inn Fairfax City" >hamptoninn3.hilton.com/en/hotels/virginia/hampton-inn-fairfax-city-FFCVAHX/index.html</a>
+        </p>
         <h2 class="aligncenter" >Directions</h2>
         <p>If you’re local, several directions are provided. To get directions from a specific address <a href="http://goo.gl/maps/MnfS" title="See the Old Town Hall on Google Maps" target="_blank" >map it here</a>.</p>
         <ol>
