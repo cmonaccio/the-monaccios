@@ -18,13 +18,13 @@
               <img src="img/profile-pic-drew.png" alt="Drew Cline" >
               <h3>Drew Cline</h3>
               <p><em>Best Man</em></p>
-              <p>Friend of the Groom. Drew and I met at North Stafford High School after our family moved to VA. Drew also attended Full Sail University with me shortly after I began classes.</p>
+              <p>Friend of the Groom. Drew and Chris met at North Stafford High School after our family moved to VA. Drew also attended Full Sail University with me shortly after I began classes.</p>
             </div><!-- #drew -->
 
             <div id="steve" class="party-member aligncenter" >
               <img src="img/profile-pic-steve.png" alt="Steve Celestin" >
               <h3>Steve Celestin</h3>
-              <p>Steve and I met while our family was stationed at Patrick Air Force Base in Cocoa Beach, FL. We attended Cocoa Beach Jr/Sr High School together and were later roommates in Winter Park while attending Full Sail University.
+              <p>Steve and Chris met while our family was stationed at Patrick Air Force Base in Cocoa Beach, FL. We attended Cocoa Beach Jr/Sr High School together and were later roommates in Winter Park while attending Full Sail University.
             </div><!-- #steve -->
 
             <div id="jon" class="party-member aligncenter" >
@@ -45,7 +45,7 @@
               <img src="img/profile-pic-kaycee.png" alt="Kaycee Nakamoto" >
               <h3>Kaycee Nakamoto</h3>
               <p><em>Maid of Honor</em></p>
-              <p>Kaycee and I met in middle school and became close friends post-college.</p>
+              <p>Kaycee and Christine met in middle school and became close friends post-college.</p>
             </div><!-- #kaycee -->
 
             <div id="jen" class="party-member aligncenter" >
