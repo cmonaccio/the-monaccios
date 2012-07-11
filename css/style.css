@@ -190,25 +190,34 @@ body { background: url(../img/bg-body.jpg) repeat 0 0;}
 }
 
 /* Welcome */
+#content.welcome { margin-top: 100px; }
 #time-and-date {
   width: 500px;
-  padding: 25px 0;
+  padding: 0 0 25px;
+  margin-top: 25px;
   background: url(../img/bg-nav-primary.gif) repeat-x 0 bottom; 
-  font-size: 20px; 
-  line-height: 24px;
   text-transform: uppercase;
+}
+#time-and-date p { line-height: 26px; font-size: 20px; }
+
+#top-rule {
+  height: 25px;
+  background: url(../img/bg-nav-primary-li-hover.gif) repeat-x 0 top;
 }
 
 #month-day { 
   margin: 0; 
   color: #7fcecf; 
   font-variant: small-caps;
+  font-size: 24px;
+  line-height: 28px;
 }
 #numeric-date { 
   font-size: 40px;
   margin: 0; 
   color: #abc73a; 
   font-variant: small-caps;
+  line-height: 34px;
 }
 
 /* Our Story */
