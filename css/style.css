@@ -189,6 +189,28 @@ body { background: url(../img/bg-body.jpg) repeat 0 0;}
   text-align: center;
 }
 
+/* Welcome */
+#time-and-date {
+  width: 500px;
+  padding: 25px 0;
+  background: url(../img/bg-nav-primary.gif) repeat-x 0 bottom; 
+  font-size: 20px; 
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+#month-day { 
+  margin: 0; 
+  color: #7fcecf; 
+  font-variant: small-caps;
+}
+#numeric-date { 
+  font-size: 40px;
+  margin: 0; 
+  color: #abc73a; 
+  font-variant: small-caps;
+}
+
 /* Our Story */
 #the-couple {
   padding-left: 9px;
